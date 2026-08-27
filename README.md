@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm MALAVIKA K P
 
-<!--
-**malaviiiiiiika/malaviiiiiiika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Computer Science Engineering (Data Science) Student
 
-Here are some ideas to get you started:
+I'm a CSE (Data Science) undergraduate interested in **AI/ML, Data Science, and creative problem-solving**. I enjoy building practical solutions that combine technology, data, and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Exploring
+
+- 🤖 AI/ML & Data Science
+- 🐍 Python & SQL
+- 🌐 Streamlit & application development
+- 🎨 UI/UX & creative design
+
+---
+
+## 🛠️ Tech Stack
+
+`Python` `C` `SQL` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `MySQL` `Git` `GitHub`
+
+---
+
+## 💡 Featured Projects
+
+### 🔍 Crime Cluster Analysis Using K-Means
+K-Means clustering project with an interactive **Streamlit** application for crime data visualization and analysis.
+
+### 👁️ Morse Code Decoding Using Eye Blinks
+Real-time computer vision system using **Python, MediaPipe, and OpenCV** to convert eye-blink Morse code into text and speech.
+
+---
+
+## 🎨 Beyond Code
+
+I also have experience in **graphic design, branding, and creative leadership**. I enjoy being at the intersection of **technology + creativity**.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/malavika-kp-672742271/
+- 📧 Email: malavikakp06@gmail.com
+
+### ✨ Building with data, AI & creativity.
