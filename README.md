@@ -10,7 +10,6 @@ I'm a CSE (Data Science) undergraduate interested in **AI/ML, Data Science, and 
 
 * 🤖 AI/ML & Data Science
 * 🐍 Python & SQL
-* 🌐 Streamlit & application development
 * 🎨 Graphic Design, Branding & UI/UX
 
 ---
